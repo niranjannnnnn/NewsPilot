@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "PBS NewsHour West live episode, April 28, 2023 - PBS NewsHour",
+      "description": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twGFind more from PBS NewsHour at https://www.pbs.org/newshourSubscribe to our YouTube cha...",
+      "url": "https://www.youtube.com/watch?v=6XAOrpS-iIc",
+      "urlToImage": "https://i.ytimg.com/vi/6XAOrpS-iIc/maxresdefault.jpg",
+      "publishedAt": "2023-04-29T02:04:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Army orders aviation standdown after deadly helicopter crash - CBS News",
+      "description": "The Army chief of staff has ordered a total aviation standdown after the collision of two Apache helicopters in Alaska. David Martin has more.#news #army #al...",
+      "url": "https://www.youtube.com/watch?v=xGvfM05z8ak",
+      "urlToImage": "https://i.ytimg.com/vi/xGvfM05z8ak/maxresdefault.jpg",
+      "publishedAt": "2023-04-28T23:57:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Adam Sabes",
+      "title": "Federal judge grants injunction temporarily blocking enforcement of Illinois gun law - Fox News",
+      "description": "A federal judge in Illinois issued a temporary injunction blocking the enforcement of a gun law which bans some semiautomatic rifles as well as high-capacity magazines.",
+      "url": "https://www.foxnews.com/politics/federal-judge-grants-injunction-temporarily-blocking-enforcement-illinois-gun-law",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/GettyImages-1455808656.jpg",
+      "publishedAt": "2023-04-28T22:01:00Z",
+      "content": "A federal judge in Illinois has granted a temporary injunction blocking the enforcement of a gun law which bans some semiautomatic rifles as well as high-capacity magazines.\r\nUnited States District C… [+2703 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Popular diets may increase risk of heart disease, American Heart Association says - CBS News",
+      "description": "Some popular diet trends, including the keto and paleo diets, may have an adverse effect on heart health, a new statement from the American Heart Association...",
+      "url": "https://www.youtube.com/watch?v=9sype80dh_Q",
+      "urlToImage": "https://i.ytimg.com/vi/9sype80dh_Q/maxresdefault.jpg",
+      "publishedAt": "2023-04-28T20:52:52Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Euronews" },
+      "author": null,
+      "title": "Russian cruise missile strikes kill at least 25 civilians in Ukraine - Euronews",
+      "description": "Russian cruise missiles killed 25 civilians including four children in Ukraine. Twenty-three of the victims lived in a tower block in Uman, which was hit by two missiles.",
+      "url": "https://www.euronews.com/2023/04/28/russian-cruise-missile-strikes-kill-at-least-25-civilians-in-ukraine",
+      "urlToImage": "https://static.euronews.com/articles/stories/07/56/79/06/1000x563_cmsv2_56596386-ab69-58a6-9047-f9967fc8ce7e-7567906.jpg",
+      "publishedAt": "2023-04-28T19:35:01Z",
+      "content": "Russian cruise missiles killed 25 civilians including four children in Ukraine. Twenty-three of the victims lived in a tower block in Uman, which was hit by two missiles.\r\n  Russia fired more than 20… [+4114 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Nytlicensing.com" },
+      "author": "Adeel Hassan and Eliza Fawcett",
+      "title": "Abortion Bans Fail in South Carolina and Nebraska - Yahoo News",
+      "description": "The News South Carolina and Nebraska, two conservative states that have been pushing to ban abortion, on Thursday both failed to pass new bills prohibiting...",
+      "url": "https://nytlicensing.com/stories/8mTzBXXW",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U9EYAywPyN42195UAtfJzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/b48bcb70-e5c2-11ed-bffe-0bd0f16509aa",
+      "publishedAt": "2023-04-28T11:58:07Z",
+      "content": "The News\r\nSouth Carolina and Nebraska, two conservative states that have been pushing to ban abortion, on Thursday both failed to pass new bills prohibiting the procedure, preserving wide access to a… [+3470 chars]"
+    }
+  ]
+}
